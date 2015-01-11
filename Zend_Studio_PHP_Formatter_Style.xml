@@ -114,7 +114,7 @@
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_foreach" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_if" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_list" value="false"/>
-<setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_method_declaration" value="true"/>
+<setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_method_declaration" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_method_invocation" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_parenthesized_expression" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_after_opening_paren_in_switch" value="false"/>
@@ -139,7 +139,7 @@
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_foreach" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_if" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_list" value="false"/>
-<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_method_declaration" value="true"/>
+<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_method_declaration" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_method_invocation" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_parenthesized_expression" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_switch" value="false"/>
@@ -171,7 +171,7 @@
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_foreach" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_if" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_list" value="true"/>
-<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_method_declaration" value="true"/>
+<setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_method_declaration" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_method_invocation" value="false"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_switch" value="true"/>
 <setting id="org.eclipse.php.formatter.core.formatter.insert_space_before_opening_paren_in_while" value="true"/>
